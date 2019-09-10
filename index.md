@@ -7,7 +7,7 @@
 ## Preferred technologies
 
 | Type                     | Technology |
-| ------------------------ | ---------- |
+|:-------------------------|:-----------|
 | CI                       | Jenkins    |
 | Configuration Management | Ansible    |
 | Container Orchestration  | Kubernetes |
