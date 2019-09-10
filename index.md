@@ -18,4 +18,5 @@
 | Programming              | Golang     |
 | Scripting                | Bash       |
 | Serverless               | Lambda     |
+| Text Editor              | Vim        |
 | VMs as Code              | Packer     |
