@@ -1,7 +1,21 @@
 # Release Software More Often
 
-## If it hurts, do it more often
+## If it hurts, do it more often && practice makes perfect
 
 <https://martinfowler.com/bliki/FrequencyReducesDifficulty.html>
 
-## Practice makes perfect
+## Preferred technologies
+
+| Type                     | Technology |
+| ------------------------ | ---------- |
+| CI                       | Jenkins    |
+| Configuration Management | Ansible    |
+| Container Orchestration  | Kubernetes |
+| Cloud                    | AWS        |
+| IDE                      | VS Code    |
+| Infrastructure as Code   | Terraform  |
+| Operating System         | Linux      |
+| Programming              | Golang     |
+| Scripting                | Bash       |
+| Serverless               | Lambda     |
+| VMs as Code              | Packer     |
