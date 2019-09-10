@@ -17,7 +17,7 @@
 | Operating System         | Linux      |
 | Programming              | Golang     |
 | Scripting                | Bash       |
+| Secret Management        | Vault      |
 | Serverless               | Lambda     |
 | Text Editor              | Vim        |
 | VMs as Code              | Packer     |
-| Secret Management        | Vault      |
