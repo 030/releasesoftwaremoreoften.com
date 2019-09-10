@@ -20,3 +20,4 @@
 | Serverless               | Lambda     |
 | Text Editor              | Vim        |
 | VMs as Code              | Packer     |
+| Secret Management        | Vault      |
