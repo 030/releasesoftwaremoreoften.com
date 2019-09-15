@@ -20,4 +20,5 @@
 | Secret Management        | Vault      |
 | Serverless               | Lambda     |
 | Text Editor              | Vim        |
+| VCS                      | Git        |
 | VMs as Code              | Packer     |
