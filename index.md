@@ -19,6 +19,7 @@
 | Scripting                | Bash       |
 | Secret Management        | Vault      |
 | Serverless               | Lambda     |
+| Software Repository      | Nexus3     |
 | Text Editor              | Vim        |
 | VCS                      | Git        |
 | VMs as Code              | Packer     |
