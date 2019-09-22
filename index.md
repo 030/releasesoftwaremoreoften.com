@@ -6,20 +6,20 @@
 
 ## Preferred technologies
 
-| Type                     | Technology |
-|:-------------------------|:-----------|
-| CI                       | Jenkins    |
-| Configuration Management | Ansible    |
-| Container Orchestration  | Kubernetes |
-| Cloud                    | AWS        |
-| IDE                      | VS Code    |
-| Infrastructure as Code   | Terraform  |
-| Operating System         | Linux      |
-| Programming              | Golang     |
-| Scripting                | Bash       |
-| Secret Management        | Vault      |
-| Serverless               | Lambda     |
-| Software Repository      | Nexus3     |
-| Text Editor              | Vim        |
-| VCS                      | Git        |
-| VMs as Code              | Packer     |
+| Type                     | Technology           |
+|:-------------------------|:---------------------|
+| CI                       | [Jenkins](jenkins.md)|
+| Configuration Management | Ansible              |
+| Container Orchestration  | Kubernetes           |
+| Cloud                    | AWS                  |
+| IDE                      | VS Code              |
+| Infrastructure as Code   | Terraform            |
+| Operating System         | Linux                |
+| Programming              | Golang               |
+| Scripting                | Bash                 |
+| Secret Management        | Vault                |
+| Serverless               | Lambda               |
+| Software Repository      | Nexus3               |
+| Text Editor              | Vim                  |
+| VCS                      | Git                  |
+| VMs as Code              | Packer               |
