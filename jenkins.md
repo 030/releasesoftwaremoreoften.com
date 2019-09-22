@@ -28,4 +28,4 @@ asked on [Gitter](https://gitter.im/jenkinsci/configuration-as-code-plugin).
 
 Apart from these two issues, I like JCAC as it prevents that people have to configure a
 Jenkins-master manually and that it becomes clear what changes were applied, instead of applying
-archeologie to find out what plugins were installed and why Jenkins is broken.
+archeology to find out what plugins were installed and why Jenkins is broken.
