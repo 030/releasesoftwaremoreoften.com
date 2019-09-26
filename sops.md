@@ -1,7 +1,7 @@
 # SOPS
 
 [Secrets OPerationS](https://github.com/mozilla/sops) is a tool that is able
-to manage secrets by using a Key Management Store like AWS KWS. The GitHub
+to manage secrets by using a Key Management Store like AWS KMS. The GitHub
 README provides instructions how to get started with SOPS.
 
 ## September 26, 2019
