@@ -17,7 +17,7 @@
 | Operating System         | Linux                |
 | Programming              | Golang               |
 | Scripting                | Bash                 |
-| Secret Management        | Vault                |
+| Secret Management        | [SOPS](sops.md)      |
 | Serverless               | Lambda               |
 | Software Repository      | Nexus3               |
 | Text Editor              | Vim                  |
