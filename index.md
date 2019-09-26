@@ -21,5 +21,5 @@
 | Serverless               | Lambda               |
 | Software Repository      | Nexus3               |
 | Text Editor              | Vim                  |
-| VCS                      | Git                  |
+| VCS                      | [Git](git.md)        |
 | VMs as Code              | Packer               |
