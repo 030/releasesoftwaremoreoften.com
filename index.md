@@ -23,3 +23,11 @@
 | Text Editor              | Vim                  |
 | VCS                      | [Git](git.md)        |
 | VMs as Code              | Packer               |
+
+## Tools
+
+<https://bcbsn.releasesoftwaremoreoften.com/>
+<https://dip.releasesoftwaremoreoften.com/>
+<https://go-multipart.releasesoftwaremoreoften.com/>
+<https://go-yq.releasesoftwaremoreoften.com/>
+<https://n3dr.releasesoftwaremoreoften.com/>
