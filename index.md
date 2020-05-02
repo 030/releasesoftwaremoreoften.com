@@ -30,4 +30,5 @@
 * <https://dip.releasesoftwaremoreoften.com/>
 * <https://go-multipart.releasesoftwaremoreoften.com/>
 * <https://go-yq.releasesoftwaremoreoften.com/>
+* <https://informado.releasesoftwaremoreoften.com/>
 * <https://n3dr.releasesoftwaremoreoften.com/>
