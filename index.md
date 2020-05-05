@@ -7,7 +7,7 @@ he referred to an article of [Martin Fowler](https://martinfowler.com/bliki/Freq
 and added: "the reason that this four-times-a-year-release is so painful, is the time we did not release.
 After three months, nobody knows how to release and shortcuts that were taken last time, will be taken again
 due to deadline pressures". I totally agree with him and Martin Fowler. The article of the latter demonstrates
-the exponential increase of pain, the longer a release gets postponend. Imagine the pain if a release would be
+the exponential increase of pain, the longer a release gets postponed. Imagine the pain if a release would be
 done once a year or two years...
 
 ## Preferred technologies
