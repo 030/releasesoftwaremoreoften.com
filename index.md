@@ -1,3 +1,5 @@
+# Release Software More Often
+
 ## If it hurts, do it more often
 
 Back in the day, when a former colleague and I were talking about the three-monthly release,
