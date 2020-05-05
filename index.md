@@ -1,6 +1,6 @@
 # Release Software More Often
 
-## 2020-may-05: N3DR
+## 2020-05-05: N3DR
 
 Over a year ago, I created a tool called Nexus3 Disaster Recovery ([N3DR](https://n3dr.releasesoftwaremoreoften.com/)). The reason was that I had to migrate the on-premise
 Nexus to the cloud. Surprisingly there was not any tool available that was able to backup the artifacts from all repositories. I found a couple of different tools, but none of them was able to backup an entire Nexus. At the time of writing, the tool has 21 stars, two other people added some commits and a couple of questions were asked. Although it is not a very popular tool, it helped me and my colleagues to complete the migration to the cloud and we have no stress anymore whether we will loose Nexus data as an automatic backup is created everyday and the migration has proven that the disaster-recovery works as well.
