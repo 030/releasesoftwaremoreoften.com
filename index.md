@@ -15,7 +15,7 @@ done once a year or two years...
 | Type                     | Technology           |
 |:-------------------------|:---------------------|
 | CI                       | [Jenkins](jenkins.md)|
-| Configuration Management | Ansible              |
+| Configuration Management | [Ansible](ansible.md)|
 | Container Orchestration  | Kubernetes           |
 | Cloud                    | AWS                  |
 | IDE                      | VS Code              |
