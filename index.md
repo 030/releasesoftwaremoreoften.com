@@ -1,6 +1,4 @@
-# Release Software More Often
-
-## If it hurts, do it more often && practice makes perfect
+## If it hurts, do it more often
 
 Back in the day, when a former colleague and I were talking about the three-monthly release,
 he referred to an article of [Martin Fowler](https://martinfowler.com/bliki/FrequencyReducesDifficulty.html)
