@@ -2,7 +2,7 @@
 
 ## 2020-05-09 BCBSN
 
-I created the Bitbucket Cloud Build Status Notifier ([BCBSN](https://github.com/030/bcbsn)) to ensure that a build status can be sent to Bitbucket Cloud if a Jenkins Multi branch pipeline is run for the first time. [Initially I found a bug ticket, left a comment and tried to fix it](https://issues.jenkins-ci.org/browse/JENKINS-40456), but after spending more than 10 hours it turned out that it was quicker to create a simple tool.
+I created the Bitbucket Cloud Build Status Notifier ([BCBSN](https://github.com/030/bcbsn)) to ensure that a build status can be sent to Bitbucket Cloud if a Jenkins Multi branch pipeline is run for the first time. [Initially I found a bug ticket, left a comment](https://issues.jenkins-ci.org/browse/JENKINS-40456) and tried to find a workaround, but after spending more than 10 hours it turned out that it was quicker to create a simple tool.
 
 ## 2020-05-04: N3DR
 
