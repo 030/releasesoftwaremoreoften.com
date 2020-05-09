@@ -17,6 +17,8 @@ I started to work with Ansible in 2017. The main reason was that nobody in the t
 |----------------------|---------|------|--------|--------|
 | programming language | python  | ruby | ruby   | python |
 
+Table 1: Differences between CM tools 
+
 ## If it hurts, do it more often
 
 Back in the day, when a former colleague and I were talking about the three-monthly release,
