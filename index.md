@@ -1,5 +1,9 @@
 # Release Software More Often
 
+## 2021-03-23 N3DR (6.0.6)
+
+[Version 6.0.6 of N3DR](https://github.com/030/n3dr/compare/6.0.5...6.0.6) has been released. This version contains a `--skip-errors` option that allows users to continue-on-error while uploading Maven2 artifacts to Nexus3. Also two environment variables have been added to ensure that users could modify the regular expression to ensure that artifacts that deviate from the standard could be uploaded as well.
+
 ## 2020-05-09 BCBSN
 
 I created the Bitbucket Cloud Build Status Notifier ([BCBSN](https://github.com/030/bcbsn)) to ensure that a build status can be sent to Bitbucket Cloud if a Jenkins Multi branch pipeline is run for the first time. [Initially I found a bug ticket, left a comment](https://issues.jenkins-ci.org/browse/JENKINS-40456) and tried to find a workaround, but after spending more than 10 hours it turned out that it was quicker to create a simple tool.
