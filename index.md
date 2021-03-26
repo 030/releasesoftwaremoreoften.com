@@ -5,7 +5,9 @@
 In order to get the latest version of a docker image from dockerhub, one could use the [Docker Image Patrol (DIP) tool](https://github.com/030/dip). Either download the binary from the releases page, install if using [chocolatey](https://chocolatey.org/packages/dip) or install it using [snap](https://snapcraft.io/kdiutd). In order to get the latest version of golang:
 
 ```bash
-kdiutd.dip -image=golang -latest "^1\..*-alpine[0-9]+\.[0-9]+$" -official
+kdiutd.dip -image=golang \
+           -latest="^1\..*-alpine[0-9]+\.[0-9]+$" \
+           -official
 ```
 
 results in:
