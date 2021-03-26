@@ -1,5 +1,19 @@
 # Release Software More Often
 
+## 2021-03-26 DIP (2.1.4)
+
+In order to get the latest version of a docker image from dockerhub, one could use the [Docker Image Patrol (DIP) tool](https://github.com/030/dip). Either download the binary from the releases page, install if using [chocolatey](https://chocolatey.org/packages/dip) or install it using [snap](https://snapcraft.io/kdiutd). In order to get the latest version of golang:
+
+```bash
+kdiutd.dip -image=golang -latest "^1\..*-alpine[0-9]+\.[0-9]+$" -official
+```
+
+results in:
+
+```bash
+1.16.2-alpine3.13
+```
+
 ## 2021-03-23 N3DR (6.0.6)
 
 [Version 6.0.6 of N3DR](https://github.com/030/n3dr/compare/6.0.5...6.0.6) has been released. This version contains a `--skip-errors` option that allows users to continue-on-error while uploading Maven2 artifacts to Nexus3. Also two environment variables have been added to ensure that users could modify the regular expression to ensure that artifacts that deviate from the standard could be uploaded as well.
