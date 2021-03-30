@@ -2,7 +2,7 @@
 
 ## 2021-03-30
 
-Last year, a collegae of mine was playing a Tech video twice as fast during KubeCon. Today
+Last year, a colleague of mine was playing a Tech video twice as fast during KubeCon. Today
 I ordered a couple of other tech videos on Udemy. This website is also capable of playing
 videos faster, which is really helpful as I can watch more Tech videos on a day and learn faster.
 In order to speed up a video, navigate to the `settings`, click on `playback speed` and change it
