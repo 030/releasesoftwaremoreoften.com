@@ -1,5 +1,13 @@
 # Release Software More Often
 
+## 2021-03-30
+
+Last year, a collegae of mine was playing a Tech video twice as fast during KubeCon. Today
+I ordered a couple of order tech videos on Udemy. This website is also capable of playing
+videos faster, which is really helpful as I can watch more Tech videos on a day and learn faster.
+In order to speed up a video, navigate to the `settings`, click on `playback speed` and change it
+to `1.5` or `2`.
+
 ## 2021-03-26 DIP (2.1.4)
 
 In order to get the latest version of a docker image from dockerhub, one could use the [Docker Image Patrol (DIP) tool](https://github.com/030/dip). Either download the binary from the releases page, install if using [chocolatey](https://chocolatey.org/packages/dip) or install it using [snap](https://snapcraft.io/kdiutd). In order to get the latest version of golang:
