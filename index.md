@@ -1,5 +1,9 @@
 # Release Software More Often
 
+## 2021-04-03 Automate snap releases
+
+Today I automated the build and release of the N3DR snap package by utilizing the build and publish actions from snapcraft. Since version 6.0.8, all types of artifacts, e.g. Docker, Linux, Windows and Mac have been automated using Github actions.  
+
 ## 2021-03-31 Dive, Trivy and Github Actions
 
 Back in the day, I was using TravisCI. At the end of last year, they announced that the community version would stop and I had to look for an alternative. I found some other Github repositories that were using Github Actions. I decided to get started with that and it turned out that it is very powerful. Last night I enabled a Dive and Trivy Github action. The first one is capable of determining the amount of waste in a docker image and the latter indicates whether there are security vulnerabilities that are fixable. As both actions will be run when new code is pushed to the repository and a docker image will only be submitted to dockerhub when a tag is created, both actions will prevent that images that contain waste or fixable security issues will be pushed to the public docker registry. Apart from that, the modularity of the actions facilitates the modification of the pipeline as I did not have to change the current yml file like I had to do when the CI ran on  TravisCI.
