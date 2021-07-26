@@ -1,5 +1,9 @@
 # Release Software More Often
 
+## 2021-07-26 AWS Cloud Practitioner certified
+
+Last Friday I have passed the [AWS Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/?ch=cta&cta=header&p=2) exam. Today I will start learning to become a [AWS Certified SysOps Administrator Associate](https://aws.amazon.com/certification/certified-sysops-admin-associate/?ch=sec&sec=rmg&d=1).
+
 ## 2021-04-03 Automate snap releases
 
 Today I automated the build and release of the N3DR snap package by utilizing the build and publish actions from snapcraft. Since version 6.0.8, all types of artifacts, e.g. Docker, Linux, Windows and Mac have been automated using Github actions.  
